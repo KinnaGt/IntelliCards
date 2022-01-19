@@ -1,5 +1,7 @@
-# intellicards
+# IntelliCards
 
+![Login](https://user-images.githubusercontent.com/81035527/150150079-f4a48e9f-7bd9-4651-abb4-13a4680806b2.jpeg)
+![Welcome](https://user-images.githubusercontent.com/81035527/150150083-196bc602-6b38-4ca2-bab7-28634a229916.jpeg)
 
 
 ## Getting Started
